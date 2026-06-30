@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Aritz"
-  avatar : "/assets/images/A.N.M..jpg"
+  avatar : "/assets/images/A.N.M.-2.jpg"
   bio    : "Data Analyst with a background in clinical psychopathology research, interested in digital mental health and healthcare analytics."
   links:
 
@@ -68,7 +68,7 @@ author:
       url: "https://github.com/Dasein94"
 
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ariel-nieto-martinez/"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       url: "https://github.com/Dasein94"
 
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ariel-nieto-martinez/"  
     
 defaults:
