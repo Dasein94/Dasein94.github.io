@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Aritz"
-  avatar : "assets/images/A.N.M..jpg"
+  avatar : "/assets/images/A.N.M..jpg"
   bio    : "Data Analyst with a background in clinical psychopathology research, interested in digital mental health and healthcare analytics."
   links:
 
