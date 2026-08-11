@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+In 2018, I completed my BSc in Psychology in Barcelona. From the beginning, I was particularly interested in psychopathology, the causes of mental health disorders, classification systems, as well as neuropsychology and the biological aspects of these disorders. My interests were more inclined towards understanding and researching these areas, and their implementation in the real world, than towards the clinical, day-to-day side of psychology.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+After completing my degree, I moved to the UK to improve my English while working. Four years later, this experience allowed me to move to the Netherlands, where I pursued an MSc focused on psychopathology research. This master's degree was key to developing my statistical knowledge and research skills. I have since been involved in multiple research projects, and each of them has shown me how important it is to ask the right questions and choose the appropriate methodology to address them.
+
+Psychology has a strong foundation in statistics, which is a skill set that is highly transferable across many other fields. As I am currently focusing on data science and its potential to bring value across different sectors, this website is intended to showcase my technical projects, ranging from psychology research to projects in other fields.
+
+Additionally, I write about psychology topics and research questions that I find interesting.

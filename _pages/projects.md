@@ -1,0 +1,1 @@
+A collection of analytical and computational projects I've worked on.
