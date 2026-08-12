@@ -8,18 +8,28 @@ A collection of projects I've worked on.
 
 {% assign project_posts = site.posts | where_exp: "post", "post.categories contains 'projects'" %}
 
+<div class="project-grid">
+
 {% for post in project_posts %}
 
-## {{ post.title }}
+<div class="project-card">
 
-{% if post.tags %}
-**{{ post.tags | join: " · " }}**
-{% endif %}
+    <h2>{{ post.title }}</h2>
 
-{{ post.description }}
+    {% if post.tags %}
+    <p class="project-tags">{{ post.tags | join: " · " }}</p>
+    {% endif %}
 
-[View on GitHub →]({{ post.github }})
+    <p>{{ post.description }}</p>
 
----
+    <p class="project-link">
+        <a href="{{ post.github }}" target="_blank" rel="noopener">
+            View on GitHub →
+        </a>
+    </p>
+
+</div>
 
 {% endfor %}
+
+</div>
