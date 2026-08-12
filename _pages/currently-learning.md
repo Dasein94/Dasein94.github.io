@@ -7,3 +7,4 @@ title: "Currently learning"
 - ML: non-linear models
 - Data applications, e.g., Streamlit
 - AI & psychology
+- Neural models of cognitive processes for AI
