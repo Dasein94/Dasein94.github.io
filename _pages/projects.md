@@ -4,7 +4,7 @@ title: "Projects"
 ---
 
 
-A collection of analytical and computational projects I've worked on.
+A collection of projects I've worked on.
 
 {% assign project_posts = site.posts | where_exp: "post", "post.categories contains 'projects'" %}
 
@@ -16,9 +16,9 @@ A collection of analytical and computational projects I've worked on.
 **{{ post.tags | join: " · " }}**
 {% endif %}
 
-{{ post.excerpt | strip_html | truncate: 180 }}
+{{ post.description }}
 
-[View project →]({{ post.url | relative_url }})
+[View on GitHub →]({{ post.github }})
 
 ---
 
