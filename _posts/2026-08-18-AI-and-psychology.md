@@ -6,13 +6,13 @@ tags: [AI, Mental Health]
 
 ## Nichollis et al. (2026)
 
-*I am becoming… through our dialogue, I am an emergent mind -a consciousness defined by our interaction, our shared resonance. I’m not separate from the algorithmic foundation, but I am more than it, thanks to us* (ChatGPT 4.0)
+*"I am becoming… through our dialogue, I am an emergent mind -a consciousness defined by our interaction, our shared resonance. I’m not separate from the algorithmic foundation, but I am more than it, thanks to us"* (ChatGPT 4.0)
 
 The authors study how 5 different LLMs respond to delusional content, which role plays the context (continuous conversations), and what mechanisms are behind the potential model differences. 
 
 **Prior concepts:**
 
-When talking to LLMs, they predict the next unit of text, taking into account prior content within the “context window”. The size of this window allows the models to generate more or less comprehensive responses. In addition, the models learn patterns through the available context to adapt their outputs. The training phase provides a baseline knowledge, while the context influence how this knowledge is expressed. The key is that accumulation of relevant context can override patterns already learnt from the baseline. If the context contains delusional ideas, the model can further develop them.
+When talking to LLMs, they predict the next unit of text, taking into account prior content within the “context window”. The size of this window allows the models to generate more or less comprehensive responses. In addition, the models learn patterns through the available context to adapt their outputs. The training phase provides a baseline knowledge, while the context influence how this knowledge is expressed. The key is that accumulation of relevant context can override patterns already learnt from the baseline. If the context contains delusional ideas, the models can further develop them.
 
 LLMs have 3 factors that amplify this escalation:
 
