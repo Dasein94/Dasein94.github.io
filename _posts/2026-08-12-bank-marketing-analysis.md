@@ -6,7 +6,7 @@ description: "End-to-end analysis of a bank marketing campaign, from exploratory
 github: "https://github.com/Dasein94/bank-marketing-analysis"
 ---
 
-## Project overview
+**Project overview**
 
 End-to-end analysis of a bank marketing campaign, from exploratory analysis to predictive modelling and an interactive application.
 

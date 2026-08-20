@@ -6,7 +6,7 @@ description: Analysed Health Survey for England data to investigate changes in s
 github: https://github.com/Dasein94/HSE--smoking-trends-over-time-in-England
 ---
 
-## Project overview
+**Project overview**
 
 Analysed Health Survey for England data to investigate changes in smoking prevalence.
 
