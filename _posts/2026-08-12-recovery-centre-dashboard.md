@@ -10,4 +10,4 @@ github: "https://github.com/Dasein94/Recovery-centre---dashboard"
 
 Recreated an automated Excel dashboard and used R to analyse service data and answer a research question.
 
-**Github repository:**[View the project →](https://github.com/Dasein94/Recovery-centre---dashboard)
+**Github repository:** [View the project →](https://github.com/Dasein94/Recovery-centre---dashboard)

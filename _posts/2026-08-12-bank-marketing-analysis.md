@@ -10,4 +10,4 @@ github: "https://github.com/Dasein94/bank-marketing-analysis"
 
 End-to-end analysis of a bank marketing campaign, from exploratory analysis to predictive modelling and an interactive application.
 
-**Github repository:**[View the project →](https://github.com/Dasein94/bank-marketing-analysis)
+**Github repository:** [View the project →](https://github.com/Dasein94/bank-marketing-analysis)
